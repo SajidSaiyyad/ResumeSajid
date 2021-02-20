@@ -30,13 +30,13 @@ Pointers To Be Considered
 Profile Name - Ex. Automation Tester, QA_Engg, TestEngineer
 * No need of adding up a separate column for your education, College/University,
 And respective percentages. Can just mention the branch of UG or UG & PG both with years of passing & university in one or two lines.
-
-<details>
+* <details>
  <summary>Click here-Sample Resume</summary>
  
   >![Image](SampleResume_1.jpg)
   >![Image](SampleResume_2.jpg)
   >![Image](SampleResume_3.jpg)
+
 
 ---
 
