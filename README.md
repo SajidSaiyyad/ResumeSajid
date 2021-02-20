@@ -39,7 +39,6 @@ And respective percentages. Can just mention the branch of UG or UG & PG both wi
   >![Image](SampleResume_3.jpg)
 
 ---
----
 
 # About Naukri Profile
 
