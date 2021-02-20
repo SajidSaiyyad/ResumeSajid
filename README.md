@@ -33,7 +33,10 @@ And respective percentages. Can just mention the branch of UG or UG & PG both wi
 
 <details>
  <summary>Click here-Sample Resume</summary>
+ 
   >![Image](SampleResume_1.jpg)
+  >![Image](SampleResume_2.jpg)
+  >![Image](SampleResume_3.jpg)
 
 
 ---
