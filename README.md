@@ -7,7 +7,6 @@
 * Date: February-2021
 * This Repo contain step by step guide for Resume & Online profile creation. 
 * You can use the provided material for your Resume & Online profile creation.
-* Reach out for more details about this repo: akashdktyagi@gmail.com / sarangholey@gmail.com
 
 # Resume Preparation
 
