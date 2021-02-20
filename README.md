@@ -1,3 +1,7 @@
+# tutorial-resume-prep-and-profile
+
+---
+
 #### Details: 
 * Created By: <b>Sarang Holey</b>
 * Date: February-2021
@@ -56,4 +60,5 @@ And respective percentages. Can just mention the branch of UG or UG & PG both wi
 * If you have any older profiles active for Naukri, Indeed, Monster, Linkedin etc.
 deactivate it immediately.
 * Do update your profile on a daily basis in the morning regardless if it's a weekend or any National Holiday.
+---
 
